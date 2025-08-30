@@ -1,7 +1,7 @@
 {
   "name": "scientific-calculator",
   "version": "1.0.0",
-  "homepage": "https://Dominator47.github.io/scientific-calculator",
+  "homepage": "https://dominator47.github.io/scientific-calculator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
